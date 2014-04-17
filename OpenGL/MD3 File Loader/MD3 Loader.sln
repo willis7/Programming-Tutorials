@@ -1,0 +1,19 @@
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "MD3 Loader", "MD3 Loader.vcproj", "{F7B5127A-8FC7-4B8A-9905-7E334832FD89}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F7B5127A-8FC7-4B8A-9905-7E334832FD89}.Debug|Win32.ActiveCfg = Debug|Win32
+		{F7B5127A-8FC7-4B8A-9905-7E334832FD89}.Debug|Win32.Build.0 = Debug|Win32
+		{F7B5127A-8FC7-4B8A-9905-7E334832FD89}.Release|Win32.ActiveCfg = Release|Win32
+		{F7B5127A-8FC7-4B8A-9905-7E334832FD89}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

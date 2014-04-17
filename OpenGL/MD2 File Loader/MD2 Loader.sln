@@ -1,0 +1,21 @@
+Microsoft Visual Studio Solution File, Format Version 8.00
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "MD2 Loader", "MD2 Loader.vcproj", "{53DE7862-F09F-4542-81C8-DDA2C38EC770}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		Debug = Debug
+		Release = Release
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{53DE7862-F09F-4542-81C8-DDA2C38EC770}.Debug.ActiveCfg = Debug|Win32
+		{53DE7862-F09F-4542-81C8-DDA2C38EC770}.Debug.Build.0 = Debug|Win32
+		{53DE7862-F09F-4542-81C8-DDA2C38EC770}.Release.ActiveCfg = Release|Win32
+		{53DE7862-F09F-4542-81C8-DDA2C38EC770}.Release.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal

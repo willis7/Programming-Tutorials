@@ -1,0 +1,21 @@
+Microsoft Visual Studio Solution File, Format Version 8.00
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "D3DIntro", "D3DIntro.vcproj", "{8CD497C9-3A51-47E1-8B6F-FF154B036F8A}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		Debug = Debug
+		Release = Release
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{8CD497C9-3A51-47E1-8B6F-FF154B036F8A}.Debug.ActiveCfg = Debug|Win32
+		{8CD497C9-3A51-47E1-8B6F-FF154B036F8A}.Debug.Build.0 = Debug|Win32
+		{8CD497C9-3A51-47E1-8B6F-FF154B036F8A}.Release.ActiveCfg = Release|Win32
+		{8CD497C9-3A51-47E1-8B6F-FF154B036F8A}.Release.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal

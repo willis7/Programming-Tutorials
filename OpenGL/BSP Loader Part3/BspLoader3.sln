@@ -1,0 +1,21 @@
+Microsoft Visual Studio Solution File, Format Version 8.00
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "BspLoader3", "BspLoader3.vcproj", "{B00C3FE3-D1BD-4E54-A551-8A48953733DC}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		Debug = Debug
+		Release = Release
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{B00C3FE3-D1BD-4E54-A551-8A48953733DC}.Debug.ActiveCfg = Debug|Win32
+		{B00C3FE3-D1BD-4E54-A551-8A48953733DC}.Debug.Build.0 = Debug|Win32
+		{B00C3FE3-D1BD-4E54-A551-8A48953733DC}.Release.ActiveCfg = Release|Win32
+		{B00C3FE3-D1BD-4E54-A551-8A48953733DC}.Release.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal

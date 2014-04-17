@@ -1,0 +1,21 @@
+Microsoft Visual Studio Solution File, Format Version 8.00
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ColorText", "ColorText.vcproj", "{60EA837C-2388-4156-8838-6B89F0E37987}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		Debug = Debug
+		Release = Release
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{60EA837C-2388-4156-8838-6B89F0E37987}.Debug.ActiveCfg = Debug|Win32
+		{60EA837C-2388-4156-8838-6B89F0E37987}.Debug.Build.0 = Debug|Win32
+		{60EA837C-2388-4156-8838-6B89F0E37987}.Release.ActiveCfg = Release|Win32
+		{60EA837C-2388-4156-8838-6B89F0E37987}.Release.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal

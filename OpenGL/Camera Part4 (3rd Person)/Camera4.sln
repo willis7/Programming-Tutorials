@@ -1,0 +1,21 @@
+Microsoft Visual Studio Solution File, Format Version 8.00
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Camera4", "Camera4.vcproj", "{9EBCE545-015A-4CE9-A66E-99B19ACCDE1C}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		Debug = Debug
+		Release = Release
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{9EBCE545-015A-4CE9-A66E-99B19ACCDE1C}.Debug.ActiveCfg = Debug|Win32
+		{9EBCE545-015A-4CE9-A66E-99B19ACCDE1C}.Debug.Build.0 = Debug|Win32
+		{9EBCE545-015A-4CE9-A66E-99B19ACCDE1C}.Release.ActiveCfg = Release|Win32
+		{9EBCE545-015A-4CE9-A66E-99B19ACCDE1C}.Release.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal

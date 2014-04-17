@@ -1,0 +1,21 @@
+Microsoft Visual Studio Solution File, Format Version 8.00
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Octree2", "Octree2.vcproj", "{2BBDAF77-105E-4BD2-BDDD-4107AA096EEC}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		Debug = Debug
+		Release = Release
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{2BBDAF77-105E-4BD2-BDDD-4107AA096EEC}.Debug.ActiveCfg = Debug|Win32
+		{2BBDAF77-105E-4BD2-BDDD-4107AA096EEC}.Debug.Build.0 = Debug|Win32
+		{2BBDAF77-105E-4BD2-BDDD-4107AA096EEC}.Release.ActiveCfg = Release|Win32
+		{2BBDAF77-105E-4BD2-BDDD-4107AA096EEC}.Release.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal

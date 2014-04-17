@@ -1,0 +1,21 @@
+Microsoft Visual Studio Solution File, Format Version 8.00
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Repeater", "Repeater.vcproj", "{E39F82AF-9ECE-4449-8930-443722B6986A}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		Debug = Debug
+		Release = Release
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{E39F82AF-9ECE-4449-8930-443722B6986A}.Debug.ActiveCfg = Debug|Win32
+		{E39F82AF-9ECE-4449-8930-443722B6986A}.Debug.Build.0 = Debug|Win32
+		{E39F82AF-9ECE-4449-8930-443722B6986A}.Release.ActiveCfg = Release|Win32
+		{E39F82AF-9ECE-4449-8930-443722B6986A}.Release.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal

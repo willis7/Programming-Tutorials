@@ -1,0 +1,21 @@
+Microsoft Visual Studio Solution File, Format Version 8.00
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Fonts", "Fonts.vcproj", "{2EB769B6-2728-407C-836A-40D14F071C5D}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		Debug = Debug
+		Release = Release
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{2EB769B6-2728-407C-836A-40D14F071C5D}.Debug.ActiveCfg = Debug|Win32
+		{2EB769B6-2728-407C-836A-40D14F071C5D}.Debug.Build.0 = Debug|Win32
+		{2EB769B6-2728-407C-836A-40D14F071C5D}.Release.ActiveCfg = Release|Win32
+		{2EB769B6-2728-407C-836A-40D14F071C5D}.Release.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,21 @@
+Microsoft Visual Studio Solution File, Format Version 8.00
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "3D Fonts", "3D Fonts.vcproj", "{E258ADAB-95D7-42C6-93EC-8642CF3653BA}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		Debug = Debug
+		Release = Release
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{E258ADAB-95D7-42C6-93EC-8642CF3653BA}.Debug.ActiveCfg = Debug|Win32
+		{E258ADAB-95D7-42C6-93EC-8642CF3653BA}.Debug.Build.0 = Debug|Win32
+		{E258ADAB-95D7-42C6-93EC-8642CF3653BA}.Release.ActiveCfg = Release|Win32
+		{E258ADAB-95D7-42C6-93EC-8642CF3653BA}.Release.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal

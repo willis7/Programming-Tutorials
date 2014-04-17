@@ -1,0 +1,21 @@
+Microsoft Visual Studio Solution File, Format Version 8.00
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Structures", "Structures.vcproj", "{E118C03D-ED4E-4D65-A9C2-697F05B87C44}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		Debug = Debug
+		Release = Release
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{E118C03D-ED4E-4D65-A9C2-697F05B87C44}.Debug.ActiveCfg = Debug|Win32
+		{E118C03D-ED4E-4D65-A9C2-697F05B87C44}.Debug.Build.0 = Debug|Win32
+		{E118C03D-ED4E-4D65-A9C2-697F05B87C44}.Release.ActiveCfg = Release|Win32
+		{E118C03D-ED4E-4D65-A9C2-697F05B87C44}.Release.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal

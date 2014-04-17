@@ -1,0 +1,21 @@
+Microsoft Visual Studio Solution File, Format Version 8.00
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "DynamicMemory", "DynamicMemory.vcproj", "{534D2FE4-83D3-4302-B333-B9A3C6928B95}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		Debug = Debug
+		Release = Release
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{534D2FE4-83D3-4302-B333-B9A3C6928B95}.Debug.ActiveCfg = Debug|Win32
+		{534D2FE4-83D3-4302-B333-B9A3C6928B95}.Debug.Build.0 = Debug|Win32
+		{534D2FE4-83D3-4302-B333-B9A3C6928B95}.Release.ActiveCfg = Release|Win32
+		{534D2FE4-83D3-4302-B333-B9A3C6928B95}.Release.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal

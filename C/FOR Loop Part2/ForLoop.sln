@@ -1,0 +1,21 @@
+Microsoft Visual Studio Solution File, Format Version 8.00
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ForLoop", "ForLoop.vcproj", "{A99AE916-8A25-4DDE-A3F6-405C8EF3EC11}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		Debug = Debug
+		Release = Release
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{A99AE916-8A25-4DDE-A3F6-405C8EF3EC11}.Debug.ActiveCfg = Debug|Win32
+		{A99AE916-8A25-4DDE-A3F6-405C8EF3EC11}.Debug.Build.0 = Debug|Win32
+		{A99AE916-8A25-4DDE-A3F6-405C8EF3EC11}.Release.ActiveCfg = Release|Win32
+		{A99AE916-8A25-4DDE-A3F6-405C8EF3EC11}.Release.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal

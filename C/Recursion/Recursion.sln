@@ -1,0 +1,21 @@
+Microsoft Visual Studio Solution File, Format Version 8.00
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Recursion", "Recursion.vcproj", "{F185D359-FE2A-4AAE-AB87-0A3B19C886CE}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		Debug = Debug
+		Release = Release
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{F185D359-FE2A-4AAE-AB87-0A3B19C886CE}.Debug.ActiveCfg = Debug|Win32
+		{F185D359-FE2A-4AAE-AB87-0A3B19C886CE}.Debug.Build.0 = Debug|Win32
+		{F185D359-FE2A-4AAE-AB87-0A3B19C886CE}.Release.ActiveCfg = Release|Win32
+		{F185D359-FE2A-4AAE-AB87-0A3B19C886CE}.Release.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal

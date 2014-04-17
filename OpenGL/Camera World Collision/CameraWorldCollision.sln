@@ -1,0 +1,21 @@
+Microsoft Visual Studio Solution File, Format Version 8.00
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CameraWorldCollision", "CameraWorldCollision.vcproj", "{3211367B-AA11-4EFD-833D-FFB2BE0F0D0C}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		Debug = Debug
+		Release = Release
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{3211367B-AA11-4EFD-833D-FFB2BE0F0D0C}.Debug.ActiveCfg = Debug|Win32
+		{3211367B-AA11-4EFD-833D-FFB2BE0F0D0C}.Debug.Build.0 = Debug|Win32
+		{3211367B-AA11-4EFD-833D-FFB2BE0F0D0C}.Release.ActiveCfg = Release|Win32
+		{3211367B-AA11-4EFD-833D-FFB2BE0F0D0C}.Release.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal
